@@ -320,7 +320,7 @@ referring to Moodle to ensure that you have the most up-to-date
 information and schedule. It is ultimately your responsibility to keep
 up with the course to guarantee your success.
 
-# Week 01 Introduction
+## Week 01 Introduction
 *01/23 – 01/27*
 
 **Reading / Material**:
@@ -339,7 +339,7 @@ up with the course to guarantee your success.
 **Assignments**:
 * Workshop 01: Environment Setup (released on Wednesday, due next Friday 02/03)
 
-# Week 02 Environment and Version Control
+## Week 02 Environment and Version Control
 *01/30 – 02/03*
 
 **Reading / Material**:
@@ -357,7 +357,7 @@ up with the course to guarantee your success.
 * Workshop 01: Environment Setup (due Friday 02/03)
 * Workshop 02: Git (due next Friday 02/10)
 
-# Week 03 Introduction to Bootstrap
+## Week 03 Introduction to Bootstrap
 *02/06 – 02/10*
 
 [html]: https://github.com/umass-cs-326/326-information/raw/master/material/03-HTML.pdf
@@ -381,7 +381,7 @@ Startup 01: Startup Pitch (due next Monday 02/13)
 Workshop 02: Git (due Friday 02/10)
 [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4) (due next Friday 02/17)
 
-# Week 04 Static UI Structure
+## Week 04 Static UI Structure
 *02/13 – 02/17*
 
 **Reading / Material**:
@@ -395,7 +395,7 @@ Workshop 02: Git (due Friday 02/10)
 * Workshop 04: Facebook Static Structure (due next Friday 02/24)
 * Startup 02: Static UI Mockup (due Monday 02/27)
 
-# Week 05 Bootstrap Styling and Debugging
+## Week 05 Bootstrap Styling and Debugging
 *02/20 – 02/24*
 
 **Reading / Material**:
@@ -411,7 +411,7 @@ Workshop 02: Git (due Friday 02/10)
 * Startup 02: Static UI Mockup (due next Monday 02/27)
 * Workshop 05: Facebook Feed and Styling (due Friday 03/03)
 
-# Week 06 Introduction to React
+## Week 06 Introduction to React
 *01/27 – 03/03*
 
 **Reading**:
@@ -426,7 +426,7 @@ Workshop 02: Git (due Friday 02/10)
 * Startup 02: Static UI Mockup (due Monday 02/27)
 * Workshop 05: Facebook Feed and Styling (due Friday 03/03)
 
-# Week 07 Static React
+## Week 07 Static React
 *03/06 – 03/10*
 
 **Reading/Material**:
@@ -440,12 +440,12 @@ Workshop 02: Git (due Friday 02/10)
 * Workshop 06: Static React and Facebook (due Friday 03/24)
 * Startup 03: Static React Mockups (due Friday 03/24)
 
-# Week 08 Spring Recess
+## Week 08 Spring Recess
 *03/13 – 03/17*
 
 **No Class**
 
-# Week 09 Data Modeling and Mock Databases
+## Week 09 Data Modeling and Mock Databases
 *03/20 – 03/24*
 
 **Reading/Material**:
@@ -461,7 +461,7 @@ Workshop 02: Git (due Friday 02/10)
 * Workshop 08: Data Modeling and Mock Databases (due next Friday 03/31)
 * Startup 04: ER Diagrams (due next Friday 03/31)
 
-# Week 10 React State and Interactivity
+## Week 10 React State and Interactivity
 *03/27 – 03/31*
 
 **Reading/Material**:
@@ -477,7 +477,7 @@ Workshop 02: Git (due Friday 02/10)
 * Workshop 09: Supporting Interaction with React (due next Friday 04/07)
 * Startup 04: ER Diagrams (due Friday 03/31)
 
-# Week 11 Writing a Web Server
+## Week 11 Writing a Web Server
 *04/03 – 04/07*
 
 **Reading/Material**:
@@ -492,7 +492,7 @@ Workshop 02: Git (due Friday 02/10)
 * Workshop 10: Writing a Web Server (due next Friday 04/14)
 * Startup 05: Dynamic React Mockups (due Monday 04/17)
 
-# Week 12 Database Integration
+## Week 12 Database Integration
 *04/10 – 04/14*
 
 **Reading/Material**:
@@ -508,7 +508,7 @@ Workshop 02: Git (due Friday 02/10)
 * Startup 05: Dynamic React Mockups (due next Monday 04/17)
 * Startup 06: Adding a Database (due Friday 04/28)
 
-# Week 13 Authentication
+## Week 13 Authentication
 *04/17 – 04/21*
 
 **Reading/Material**:
@@ -525,7 +525,7 @@ Workshop 02: Git (due Friday 02/10)
 * Workshop 12: Authentication (due next Friday 04/28)
 * Startup 06: Adding a Database (due next Friday 04/28)
 
-# Week 14 Authentication
+## Week 14 Authentication
 *04/24 – 04/28*
 
 **Reading/Material**:
@@ -539,7 +539,7 @@ Workshop 02: Git (due Friday 02/10)
 * Workshop 12: Authentication (due Friday 04/28)
 * Startup 06: Adding a Database (due Friday 04/28)
 
-# Week 15 Pitch Party
+## Week 15 Pitch Party
 *05/01 – 05/05*
 
 **Reading/Material**:
