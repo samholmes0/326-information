@@ -372,6 +372,21 @@ up with the course to guarantee your success.
   * [Chapter 02](https://goo.gl/sc4XQY)
   * [Chapter 03](https://goo.gl/9E0RBU)
 
+**Additional Resources**
+* [Mozilla Developer Network (HTML)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Mozilla Developer Network (CSS)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Bootstrap Website](http://getbootstrap.com/)
+* [Bootstrap Examples](http://www.tutorialrepublic.com/twitter-bootstrap-examples.php)
+* [Bootstrap 1 Column Grid Layout](http://jsbin.com/puzuvo/edit?html,css,output)
+* [Bootstrap 2 Column Grid Layout](http://jsbin.com/gixeyu/edit?html,css,output)
+* [Bootstrap Headings](http://jsbin.com/nugamo/edit?html,css,output)
+* [Bootstrap Headings with Secondary](http://jsbin.com/pokarel/edit?html,css,output)
+* [Bootstrap Tables](http://jsbin.com/nidapu/edit?html,css,output)
+* [Bootstrap List Groups](http://jsbin.com/dezivux/edit?html,css,output)
+* [Bootstrap Forms](http://jsbin.com/vivobu/edit?html,css,output)
+* [Bootstrap Navs](http://jsbin.com/ciqaqu/edit?html,css,output)
+* [An Extensive List of Examples...](http://www.tutorialrepublic.com/twitter-bootstrap-examples.php)
+
 **Lectures/Lab**:
 * Lec 05: Mini HTML/CSS lecture / [Startup 01: Startup Pitch](https://goo.gl/NSk8tO)
 * Lec 06: [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4)
