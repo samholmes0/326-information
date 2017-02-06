@@ -377,9 +377,9 @@ up with the course to guarantee your success.
 * Lec 06: [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4)
 
 **Assignments**:
-Startup 01: Startup Pitch (due next Monday 02/13)
-Workshop 02: Git (due Friday 02/10)
-[Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4) (due next Friday 02/17)
+* Startup 01: Startup Pitch (due next Monday 02/13)
+* Workshop 02: Git (due Friday 02/10)
+* [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4) (due next Friday 02/17)
 
 ## Week 04 Static UI Structure
 *02/13 – 02/17*
