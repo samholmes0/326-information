@@ -363,20 +363,20 @@ up with the course to guarantee your success.
 **Reading / Material**:
 * HTML and CSS Slides
 * Screencast: Introduction to Bootstrap (due Thursday)
-* Workshop 03: Hello, Bootstrap and Facebook (before class on Thursday)
-* Bootstrap Book (before class on Thursday)
-  * Chapter 01 / https://goo.gl/qb0C9t
-  * Chapter 02 / https://goo.gl/sc4XQY
-  * Chapter 03 / https://goo.gl/9E0RBU
+* [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4) (before class on Thursday)
+* [Bootstrap Book](https://github.com/whyisjake/Bootstrap) (before class on Thursday)
+  * [Chapter 01](https://goo.gl/qb0C9t)
+  * [Chapter 02](https://goo.gl/sc4XQY)
+  * [Chapter 03](https://goo.gl/9E0RBU)
 
 **Lectures/Lab**:
 * Lec 05: Mini HTML/CSS lecture / Startup 01: Startup Pitch
-* Lec 06: Workshop 03: Hello, Bootstrap and Facebook
+* Lec 06: [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4)
 
 **Assignments**:
 Startup 01: Startup Pitch (due next Monday 02/13)
 Workshop 02: Git (due Friday 02/10)
-Workshop 03: Hello, Bootstrap and Facebook (due next Friday 02/17)
+[Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4) (due next Friday 02/17)
 
 # Week 04 Static UI Structure
 *02/13 – 02/17*
