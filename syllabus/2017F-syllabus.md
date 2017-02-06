@@ -360,8 +360,11 @@ up with the course to guarantee your success.
 # Week 03 Introduction to Bootstrap
 *02/06 – 02/10*
 
+[html]: https://github.com/umass-cs-326/326-information/blob/master/material/03-HTML.pdf
+[css]: https://github.com/umass-cs-326/326-information/blob/master/material/03-CSS.pdf
+
 **Reading / Material**:
-* HTML and CSS Slides
+* [HTML][html] and [CSS][css] Slides
 * Screencast: Introduction to Bootstrap (due Thursday)
 * [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4) (before class on Thursday)
 * [Bootstrap Book](https://github.com/whyisjake/Bootstrap) (before class on Thursday)
