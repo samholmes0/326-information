@@ -373,11 +373,11 @@ up with the course to guarantee your success.
   * [Chapter 03](https://goo.gl/9E0RBU)
 
 **Lectures/Lab**:
-* Lec 05: Mini HTML/CSS lecture / Startup 01: Startup Pitch
+* Lec 05: Mini HTML/CSS lecture / [Startup 01: Startup Pitch](https://goo.gl/NSk8tO)
 * Lec 06: [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4)
 
 **Assignments**:
-* Startup 01: Startup Pitch (due next Monday 02/13)
+* [Startup 01: Startup Pitch](https://goo.gl/NSk8tO) (due next Monday 02/13)
 * Workshop 02: Git (due Friday 02/10)
 * [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4) (due next Friday 02/17)
 
@@ -392,8 +392,10 @@ up with the course to guarantee your success.
 * Lec 08: Startup 02: Static UI Mockup
 
 **Assignments**:
-* Workshop 04: Facebook Static Structure (due next Friday 02/24)
+* [Startup 01: Startup Pitch](https://goo.gl/NSk8tO) (due this Monday 02/13)
 * Startup 02: Static UI Mockup (due Monday 02/27)
+* [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4) (due this Friday 02/17)
+* Workshop 04: Facebook Static Structure (due next Friday 02/24)
 
 ## Week 05 Bootstrap Styling and Debugging
 *02/20 – 02/24*
