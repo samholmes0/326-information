@@ -360,8 +360,8 @@ up with the course to guarantee your success.
 # Week 03 Introduction to Bootstrap
 *02/06 – 02/10*
 
-[html]: https://github.com/umass-cs-326/326-information/blob/master/material/03-HTML.pdf
-[css]: https://github.com/umass-cs-326/326-information/blob/master/material/03-CSS.pdf
+[html]: https://github.com/umass-cs-326/326-information/blob/raw/material/03-HTML.pdf
+[css]: https://github.com/umass-cs-326/326-information/blob/raw/material/03-CSS.pdf
 
 **Reading / Material**:
 * [HTML][html] and [CSS][css] Slides
