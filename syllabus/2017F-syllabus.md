@@ -390,6 +390,7 @@ up with the course to guarantee your success.
 **Lectures/Lab**:
 * Lec 05: Mini HTML/CSS lecture / [Startup 01: Startup Pitch](https://goo.gl/NSk8tO)
 * Lec 06: [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4)
+  * RAP 03: Workshop 03: HTML and Bootstrap
 
 **Assignments**:
 * [Startup 01: Startup Pitch](https://goo.gl/NSk8tO) (due next Monday 02/13)
