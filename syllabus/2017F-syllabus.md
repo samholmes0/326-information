@@ -365,7 +365,7 @@ up with the course to guarantee your success.
 
 **Reading / Material**:
 * [HTML][html] and [CSS][css] Slides
-* Screencast: Introduction to Bootstrap (due Thursday)
+* [Screencast: Introduction to Bootstrap](https://youtu.be/wVenBlXZJmo) (due Thursday)
 * [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4) (before class on Thursday)
 * [Bootstrap Book](https://github.com/whyisjake/Bootstrap) (before class on Thursday)
   * [Chapter 01](https://goo.gl/qb0C9t)
