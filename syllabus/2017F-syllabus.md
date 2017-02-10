@@ -401,10 +401,10 @@ up with the course to guarantee your success.
 *02/13 – 02/17*
 
 **Reading / Material**:
-* Workshop 04: Facebook Static Structure (before class on Tuesday)
+* [Workshop 04: Facebook Static Structure](https://goo.gl/kPEdEE) (before class on Tuesday)
 
 **Lectures/Lab**:
-* Lec 07: Workshop 04: Facebook Static Structure
+* Lec 07: [Workshop 04: Facebook Static Structure](https://goo.gl/kPEdEE)
 * Lec 08: Startup 02: Static UI Mockup
 
 **Assignments**:
@@ -568,5 +568,3 @@ up with the course to guarantee your success.
 
 **Assignments**:
 * Startup Submission (due Friday 05/05)
-
-
