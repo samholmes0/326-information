@@ -411,7 +411,7 @@ up with the course to guarantee your success.
 
 **Assignments**:
 * [Startup 01: Startup Pitch](https://goo.gl/NSk8tO) (due this Monday 02/13)
-* [Startup 02: Static UI Mockup]((https://goo.gl/QnThzm)) (due Monday 02/27)
+* [Startup 02: Static UI Mockup](https://goo.gl/QnThzm) (due Monday 02/27)
 * [Workshop 03: HTML and Bootstrap](https://goo.gl/V1MKg4) (due this Friday 02/17)
 * [Workshop 04: Facebook Static Structure](https://goo.gl/kPEdEE) (due next Friday 02/24)
 
