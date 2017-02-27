@@ -36,6 +36,17 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+<!-- Links -->
+[ws03]: https://github.com/umass-cs-326/326-workshops/blob/master/workshop-03/workshop-03.md
+[ws04]: https://github.com/umass-cs-326/326-workshops/blob/master/workshop-04/workshop-04.md
+[ws05]: https://github.com/umass-cs-326/326-workshops/blob/master/workshop-05/workshop-05.md
+[ws06]: http://google.com
+[ws07]: http://google.com
+
+[su01]: https://github.com/umass-cs-326/326-startups/blob/master/startup-01/startup-01.md
+[su02]: https://github.com/umass-cs-326/326-startups/blob/master/startup-02/startup-02.md
+<!-- END Links -->
+
 # COMPSCI 326 Web Programming
 # Syllabus
 
@@ -404,10 +415,11 @@ up with the course to guarantee your success.
 * [Workshop 04: Facebook Static Structure](https://goo.gl/kPEdEE) (before class on Tuesday)
 
 **Lectures/Lab**:
-* Lec 07: [Workshop 04: Facebook Static Structure](https://goo.gl/kPEdEE)
-  * RAP 04: Workshop 04: Facebook Static Structure
-* Lec 08: [Startup 02: Static UI Mockup](https://goo.gl/QnThzm)
-  * RAP 05: Startup 02: Static UI Mockup
+* **Tuesday 02-21-2017**
+  * RAP 06: Workshop 05: Facebook Feed and Styling
+  * Workshop 05: Facebook Feed and Styling
+* **Thursday 02-23-2017**
+  * No Class
 
 **Assignments**:
 * [Startup 01: Startup Pitch](https://goo.gl/NSk8tO) (due this Monday 02/13)
@@ -420,31 +432,43 @@ up with the course to guarantee your success.
 
 **Reading / Material**:
 * Workshop 05: Facebook Feed and Styling (before class on Tuesday)
+* [JavaScript Tutorial](https://youtu.be/fju9ii8YsGs) (before class next Tuesday)
+* [Object Oriented JavaScript](https://youtu.be/O8wwnhdkPE4) (before class next Tuesday)
 
 **Lectures/Lab**:
-* Lec 09: Workshop 05: Facebook Feed and Styling
-* Thursday: No Class
+* *Tuesday 02-21-2017*
+  * RAP 06: Workshop 05: Facebook Feed and Styling
+  * [Workshop 05: Facebook Feed and Styling][ws05]
+* *Thursday 02-23-2017*
+  * No Class
 
 **Assignments**:
-* Introduction to JavaScript (screencasts)
-* Workshop 04: Facebook Static Structure (due Friday 02/24)
-* Startup 02: Static UI Mockup (due next Monday 02/27)
-* Workshop 05: Facebook Feed and Styling (due Friday 03/03)
+* [Workshop 03: HTML and Bootstrap][ws03] Peer Review (opens Mon 02/20 @ 6pm, closes Thu 02/23 @ 6pm)
+* [Workshop 04: Facebook Static Structure][ws04] (due Fri 02/24)
+* [Workshop 05: Facebook Feed and Styling][ws05] (released Mon 02/20 @ 6pm, due next Fri 03/03 @ 6pm)
+* [Workshop 05: Facebook Feed and Styling][ws05] Peer Review (opens Mon 03/06 @ 6pm, closes Thu 03/09 @ 6pm)
+* [Startup 02: Static UI Mockup][su02] (due next Mon 02/27)
 
 ## Week 06 Introduction to React
-*01/27 – 03/03*
+*02/27 – 03/03*
 
-**Reading**:
-* Mozilla JavaScript Guide / https://goo.gl/IKNT6 (due by Friday)
-* Learning React.js: Getting Started and Concepts / https://goo.gl/RCfqgY (due by class on Thursday)
+**Reading/Material**:
+* [Mozilla JavaScript Guide](https://goo.gl/IKNT6) (due by Friday)
+* [JavaScript Higher-Order Functions](https://goo.gl/h3ey6x)
+* [JavaScript Map](https://goo.gl/fuFjvl)
+* [JavaScript Closures](https://goo.gl/F99K2H)
+* [Learning React.js: Getting Started and Concepts](https://goo.gl/RCfqgY) (due by class on Thursday)
+* [Getting Started & Understanding React](https://youtu.be/PEXcg8xu2y0)
 
 **Lectures/Lab**:
-* Tuesday: No Class
-* Lec 10: Introduction to React
+* *Tuesday 02-28-2017*
+  * Introduction to React (lecture)
+* *Thursday 03-02-2017*
+  * Introduction to React (lecture)
 
 **Assignments**:
-* Startup 02: Static UI Mockup (due Monday 02/27)
-* Workshop 05: Facebook Feed and Styling (due Friday 03/03)
+* [Startup 02: Static UI Mockup][su02] (due Monday 02/27)
+* [Workshop 05: Facebook Feed and Styling][ws05] (due Friday 03/03)
 
 ## Week 07 Static React
 *03/06 – 03/10*
