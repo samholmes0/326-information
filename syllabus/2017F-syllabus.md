@@ -474,14 +474,14 @@ up with the course to guarantee your success.
 *03/06 – 03/10*
 
 **Reading/Material**:
-* Workshop 06: Static React and Facebook (before class on Tuesday)
+* Workshop 06: JavaScript, Static React, and Facebook (before class on Tuesday)
 
 **Lectures/Lab**:
-* Lec 11: Workshop 06: Static React and Facebook
+* Lec 11: Workshop 06: JavaScript, Static React, and Facebook
 * Lec 12: Startup 03: Static React Mockups
 
 **Assignments**:
-* Workshop 06: Static React and Facebook (due Friday 03/24)
+* Workshop 06: JavaScript, Static React, and Facebook (due Friday 03/24)
 * Startup 03: Static React Mockups (due Friday 03/24)
 
 ## Week 08 Spring Recess
@@ -493,62 +493,62 @@ up with the course to guarantee your success.
 *03/20 – 03/24*
 
 **Reading/Material**:
-* Workshop 08: Data Modeling and Mock Databases (before class on Tuesday)
+* Workshop 07: Data Modeling and Mock Databases (before class on Tuesday)
 
 **Lectures/Lab**:
-* Lec 13: Workshop 08: Data Modeling and Mock Databases
+* Lec 13: Workshop 07: Data Modeling and Mock Databases
 * Lec 14: Startup 04: ER Diagrams
 
 **Assignments**:
-* Workshop 06: Static React and Facebook (due Friday 03/24)
+* Workshop 06: JavaScript, Static React, and Facebook (due Friday 03/24)
 * Startup 03: Static React Mockups (due Friday 03/24)
-* Workshop 08: Data Modeling and Mock Databases (due next Friday 03/31)
+* Workshop 07: Data Modeling and Mock Databases (due next Friday 03/31)
 * Startup 04: ER Diagrams (due next Friday 03/31)
 
 ## Week 10 React State and Interactivity
 *03/27 – 03/31*
 
 **Reading/Material**:
-* Workshop 09: Supporting Interaction with React (before class on Tuesday)
+* Workshop 08: Supporting Interaction with React (before class on Tuesday)
 
 **Lectures/Lab**:
-* Lec 15: Workshop 09: Supporting Interaction with React
-* Lec 16: Workshop 09: Supporting Interaction with React
+* Lec 15: Workshop 08: Supporting Interaction with React
+* Lec 16: Workshop 08: Supporting Interaction with React
 
 **Assignments**:
 * React Interactivity (screencasts)
-* Workshop 08: Data Modeling and Mock Databases (due Friday 03/31)
-* Workshop 09: Supporting Interaction with React (due next Friday 04/07)
+* Workshop 07: Data Modeling and Mock Databases (due Friday 03/31)
+* Workshop 08: Supporting Interaction with React (due next Friday 04/07)
 * Startup 04: ER Diagrams (due Friday 03/31)
 
 ## Week 11 Writing a Web Server
 *04/03 – 04/07*
 
 **Reading/Material**:
-* Workshop 10: Writing a Web Server (before class on Thursday)
+* Workshop 09: Writing a Web Server (before class on Thursday)
 
 **Lectures/Lab**:
 * Lec 17: Startup 05: Dynamic React Mockups
-* Lec 18: Workshop 10: Writing a Web Server
+* Lec 18: Workshop 09: Writing a Web Server
 
 **Assignments**:
-* Workshop 09: Supporting Interaction with React (due Friday 04/07)
-* Workshop 10: Writing a Web Server (due next Friday 04/14)
+* Workshop 08: Supporting Interaction with React (due Friday 04/07)
+* Workshop 09: Writing a Web Server (due next Friday 04/14)
 * Startup 05: Dynamic React Mockups (due Monday 04/17)
 
 ## Week 12 Database Integration
 *04/10 – 04/14*
 
 **Reading/Material**:
-* Workshop 11: Adding a Database (before class on Tuesday)
+* Workshop 10: Adding a Database (before class on Tuesday)
 
 **Lectures/Lab**:
-* Lec 19: Workshop 11: Adding a Database
+* Lec 19: Workshop 10: Adding a Database
 * Lec 20: Startup 06: Adding a Database
 
 **Assignments**:
-* Workshop 10: Writing a Web Server (due Friday 04/14)
-* Workshop 11: Adding a Database (due next Friday 04/21)
+* Workshop 09: Writing a Web Server (due Friday 04/14)
+* Workshop 10: Adding a Database (due next Friday 04/21)
 * Startup 05: Dynamic React Mockups (due next Monday 04/17)
 * Startup 06: Adding a Database (due Friday 04/28)
 
@@ -556,17 +556,17 @@ up with the course to guarantee your success.
 *04/17 – 04/21*
 
 **Reading/Material**:
-* Workshop 12: Authentication (before class on Thursday)
+* Workshop 11: Authentication (before class on Thursday)
 
 **Lectures/Lab**:
 * Tuesday: No Class / Patriot’s Day
-* Lec 21: Workshop 12: Authentication
+* Lec 21: Workshop 11: Authentication
 
 **Assignments**:
 * Authentication (screencasts)
 * Startup 05: Dynamic React Mockups (due Monday 04/17)
-* Workshop 11: Adding a Database (due Friday 04/21)
-* Workshop 12: Authentication (due next Friday 04/28)
+* Workshop 10: Adding a Database (due Friday 04/21)
+* Workshop 11: Authentication (due next Friday 04/28)
 * Startup 06: Adding a Database (due next Friday 04/28)
 
 ## Week 14 Authentication
@@ -580,7 +580,7 @@ up with the course to guarantee your success.
 * Lec 23: Startup Final Work / Authentication
 
 **Assignments**:
-* Workshop 12: Authentication (due Friday 04/28)
+* Workshop 11: Authentication (due Friday 04/28)
 * Startup 06: Adding a Database (due Friday 04/28)
 
 ## Week 15 Pitch Party
