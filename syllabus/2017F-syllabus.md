@@ -415,11 +415,11 @@ up with the course to guarantee your success.
 * [Workshop 04: Facebook Static Structure](https://goo.gl/kPEdEE) (before class on Tuesday)
 
 **Lectures/Lab**:
-* **Tuesday 02-21-2017**
+* *Tuesday 02-21-2017*
   * RAP 06: Workshop 05: Facebook Feed and Styling
   * Workshop 05: Facebook Feed and Styling
-* **Thursday 02-23-2017**
-  * No Class
+* *Thursday 02-23-2017*
+  * No Class (snow day)
 
 **Assignments**:
 * [Startup 01: Startup Pitch](https://goo.gl/NSk8tO) (due this Monday 02/13)
