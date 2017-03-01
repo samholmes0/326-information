@@ -460,9 +460,12 @@ up with the course to guarantee your success.
 * [Learning React.js: Getting Started and Concepts](https://goo.gl/RCfqgY) (due by class on Thursday)
 * [Getting Started & Understanding React](https://youtu.be/PEXcg8xu2y0)
 
+[s06-01]: https://github.com/umass-cs-326/326-information/raw/master/material/tu-02-28-2017-react-basics.pdf
+[c06-01]: https://github.com/umass-cs-326/326-information/raw/master/material/tu-02-28-2017-static-react.zip
+
 **Lectures/Lab**:
 * *Tuesday 02-28-2017*
-  * Introduction to React (lecture)
+  * Introduction to React (lecture) / [slides][s06-01], [code][c06-01]
 * *Thursday 03-02-2017*
   * Introduction to React (lecture)
 
