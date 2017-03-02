@@ -1,6 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**
 
 - [COMPSCI 326 Web Programming](#compsci-326-web-programming)
 - [Syllabus](#syllabus)
@@ -36,16 +36,17 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-<!-- Links -->
+<!-- Workshops -->
 [ws03]: https://github.com/umass-cs-326/326-workshops/blob/master/workshop-03/workshop-03.md
 [ws04]: https://github.com/umass-cs-326/326-workshops/blob/master/workshop-04/workshop-04.md
 [ws05]: https://github.com/umass-cs-326/326-workshops/blob/master/workshop-05/workshop-05.md
-[ws06]: http://google.com
+[ws06]: https://github.com/umass-cs-326/326-workshops/blob/master/workshop-06/workshop-06.md
 [ws07]: http://google.com
 
+<!-- Startups -->
 [su01]: https://github.com/umass-cs-326/326-startups/blob/master/startup-01/startup-01.md
 [su02]: https://github.com/umass-cs-326/326-startups/blob/master/startup-02/startup-02.md
-<!-- END Links -->
+
 
 # COMPSCI 326 Web Programming
 # Syllabus
@@ -467,7 +468,7 @@ up with the course to guarantee your success.
 * *Tuesday 02-28-2017*
   * Introduction to React (lecture) / [slides][s06-01], [code][c06-01]
 * *Thursday 03-02-2017*
-  * Introduction to React (lecture)
+  * [Workshop 06: JavaScript, Static React, and Facebook][ws06]
 
 **Assignments**:
 * [Startup 02: Static UI Mockup][su02] (due Monday 02/27)
