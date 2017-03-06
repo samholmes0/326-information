@@ -481,8 +481,12 @@ up with the course to guarantee your success.
 * Workshop 06: JavaScript, Static React, and Facebook (before class on Tuesday)
 
 **Lectures/Lab**:
-* Lec 11: Workshop 06: JavaScript, Static React, and Facebook
-* Lec 12: Startup 03: Static React Mockups
+* *Tuesday 03-07-2017*
+  * Workshop 06 RAP
+  * [Workshop 06: JavaScript, Static React, and Facebook][ws06]
+* *Thursday 03-09-2017*
+  * Startup 03 RAP
+  * Startup 03: Static React Mockups
 
 **Assignments**:
 * Workshop 06: JavaScript, Static React, and Facebook (due Friday 03/24)
