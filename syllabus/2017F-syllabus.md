@@ -489,7 +489,7 @@ up with the course to guarantee your success.
   * Startup 03: Static React Mockups
 
 **Assignments**:
-* Workshop 06: JavaScript, Static React, and Facebook (due Friday 03/24)
+* [Workshop 06: JavaScript, Static React, and Facebook][ws06] (due Friday 03/24)
 * Startup 03: Static React Mockups (due Friday 03/24)
 
 ## Week 08 Spring Recess
