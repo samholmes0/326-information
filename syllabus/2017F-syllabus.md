@@ -478,7 +478,7 @@ up with the course to guarantee your success.
 *03/06 – 03/10*
 
 **Reading/Material**:
-* Workshop 06: JavaScript, Static React, and Facebook (before class on Tuesday)
+* [Workshop 06: JavaScript, Static React, and Facebook][ws06] (before class on Tuesday)
 
 **Lectures/Lab**:
 * *Tuesday 03-07-2017*
