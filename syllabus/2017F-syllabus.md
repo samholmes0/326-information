@@ -491,6 +491,7 @@ up with the course to guarantee your success.
 **Assignments**:
 * [Workshop 06: JavaScript, Static React, and Facebook][ws06] (due Friday 03/24)
 * Startup 03: Static React Mockups (due Friday 03/24)
+* [CATME Team Peer Evaluations](https://www.catme.org)
 
 ## Week 08 Spring Recess
 *03/13 – 03/17*
