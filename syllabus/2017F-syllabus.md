@@ -477,12 +477,14 @@ up with the course to guarantee your success.
 ## Week 07 Static React
 *03/06 – 03/10*
 
+[03-07-agenda]: https://github.com/umass-cs-326/326-information/raw/master/material/tu-03-07-2017-agenda.pdf
+
 **Reading/Material**:
 * [Workshop 06: JavaScript, Static React, and Facebook][ws06] (before class on Tuesday)
 
 **Lectures/Lab**:
 * *Tuesday 03-07-2017*
-  * Workshop 06 RAP
+  * [Workshop 06 Agenda/RAP][03-07-agenda]
   * [Workshop 06: JavaScript, Static React, and Facebook][ws06]
 * *Thursday 03-09-2017*
   * Startup 03 RAP
