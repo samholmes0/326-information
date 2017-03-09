@@ -492,7 +492,7 @@ up with the course to guarantee your success.
 
 **Assignments**:
 * [Workshop 06: JavaScript, Static React, and Facebook][ws06] (due Friday 03/24)
-* Startup 03: Static React Mockups](https://github.com/umass-cs-326/326-startups/blob/master/startup-03/startup-03.md) (due Friday 03/24)
+* [Startup 03: Static React Mockups](https://github.com/umass-cs-326/326-startups/blob/master/startup-03/startup-03.md) (due Friday 03/24)
 * [CATME Team Peer Evaluations](https://www.catme.org) (due Friday 03/10)
 
 ## Week 08 Spring Recess
