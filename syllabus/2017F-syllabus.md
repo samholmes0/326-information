@@ -488,11 +488,11 @@ up with the course to guarantee your success.
   * [Workshop 06: JavaScript, Static React, and Facebook][ws06]
 * *Thursday 03-09-2017*
   * Startup 03 RAP
-  * Startup 03: Static React Mockups
+  * [Startup 03: Static React Mockups](https://github.com/umass-cs-326/326-startups/blob/master/startup-03/startup-03.md)
 
 **Assignments**:
 * [Workshop 06: JavaScript, Static React, and Facebook][ws06] (due Friday 03/24)
-* Startup 03: Static React Mockups (due Friday 03/24)
+* Startup 03: Static React Mockups](https://github.com/umass-cs-326/326-startups/blob/master/startup-03/startup-03.md) (due Friday 03/24)
 * [CATME Team Peer Evaluations](https://www.catme.org) (due Friday 03/10)
 
 ## Week 08 Spring Recess
@@ -511,8 +511,8 @@ up with the course to guarantee your success.
 * Lec 14: Startup 04: ER Diagrams
 
 **Assignments**:
-* Workshop 06: JavaScript, Static React, and Facebook (due Friday 03/24)
-* Startup 03: Static React Mockups (due Friday 03/24)
+* Workshop 06: JavaScript, Static React, and Facebook (due this Friday 03/24)
+* Startup 03: Static React Mockups](https://github.com/umass-cs-326/326-startups/blob/master/startup-03/startup-03.md) (due this Friday 03/24)
 * Workshop 07: Data Modeling and Mock Databases (due next Friday 03/31)
 * Startup 04: ER Diagrams (due next Friday 03/31)
 
